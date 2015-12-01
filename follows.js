@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'jpzWZEHB320O6bBcInOpogCwjxbcH582Zlw86R0OtaDgKNON', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [61916,12425,94322], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [7021,12425,94322], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'ODI Devon', // Replaces Xively logo in the header
 		dataDuration	= '30days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
